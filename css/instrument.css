@@ -1,0 +1,23 @@
+.wszdy01 {
+    float: left;
+    border: 1px solid #a3a5a79f;
+    margin: 50px 85px 0px 85px;
+    width: 500px;
+    height: 500px;
+}
+
+.yj {
+    float: left;
+    margin-top: 56px;
+}
+
+.type {
+    margin-top: 60px;
+    font-size: 16px;
+    margin-left: 70px;
+}
+
+.price {
+    color: orangered;
+    font-size: 32px;
+}

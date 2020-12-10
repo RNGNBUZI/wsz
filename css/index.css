@@ -1,0 +1,100 @@
+ .carousel-inner>.item>img {
+    display: block;
+    width: 100%;
+    height: 600px;
+}
+.pc {
+    font-size: 20px;
+    font-weight: 550;
+	letter-spacing: 10px;
+    position: absolute;
+	top:45%;
+	left: 10%;    
+}
+
+.pc .j {
+    font-size: 60px;
+    font-weight: 540;
+    color: #F75000;
+}
+   
+
+
+.box-hd {
+    
+    margin-top: 35px;
+    margin-left: 16px;
+    height: 45px;
+}
+.box-hd h3 {
+    
+    float: left;
+    font-size: 22px;
+    font-weight: 600;
+    color: #F75000;
+}
+
+.box-bd ul li {
+    float: left;
+    width: 228px;
+    height: 270px;
+    margin-right: 15px;
+}
+.box-bd ul li a > img {
+    margin-left: 76px;
+    width: 100%;
+}
+.box-bd ul li h4 {
+    margin: 20px 20px 20px 135px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.hox {
+    float: left;
+    margin-top: 90px;
+}
+
+.hox-ad {
+    margin-left: 16px;
+    height: 45px;
+}
+.hox-ad h3 {
+    float: left;
+    font-size: 22px;
+    font-weight: 600;
+    color: #F75000;
+}
+
+.hox-cd {
+    background-color: #f3f5f79f;
+}
+
+
+.hox-cd ul li {
+    float: left;
+    width: 228px;
+    height: 270px;
+    margin-right: 15px;
+    
+}
+.hox-cd ul li  > img {
+    margin-left: 76px;
+    width: 100%;
+    height: 250px;
+}
+
+.hox-cd ul li h4 {
+    float: left;
+    margin: 20px 20px 20px 140px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.box {
+    float: left;
+}
+
+.hox {
+    float: left;
+}

@@ -1,0 +1,54 @@
+.site {
+    display: flex;
+    width: 100%;
+    height: 560px;
+    background-color: #f3f5f79f;
+}
+
+.site .baidu {
+    border-radius: 10px;
+    margin: 100px 90px 96px 88px;
+    width: 590px;
+    height: 368px;
+    background-color: #fff;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.contact {
+    float: left;
+    margin-top: 144px;
+}
+.ca1 {
+    font-size: 14px;
+}
+
+.ca2 {
+    display: flex;
+    margin-top: 56px;
+    font-size: 15px;
+}
+
+.ca3 {
+    float: left;
+}
+.ca4 {
+    float: left;
+    margin-left: 122px;
+}
+
+.ca5 {
+    display: flex;
+
+    font-size: 15px;
+}
+
+.ca6 {
+    float: left;
+}
+
+.ca7 {
+    font-size: 15px;
+}
